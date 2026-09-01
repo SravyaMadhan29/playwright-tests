@@ -1,0 +1,7 @@
+Login Successful
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+the total products count is 3
+click successful
+ | 6a8bd5d921054ba465ed3bcd | 
+7
+6a8bd5d921054ba465ed3bcd
