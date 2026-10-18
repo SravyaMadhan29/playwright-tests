@@ -4,7 +4,7 @@ const { futureDate } = require('../utils/calender');
 
 test("book a seat and validate", async ({ browser }) => {
     const context = await browser.newContext();
-    //tes
+    //Updated test to create a new event and book a seat for that event, validating the seat count before and after booking.
     const page = await context.newPage();
     const eventTitle = `Test Event ${Date.now()}`;
     const category = "Sports";
